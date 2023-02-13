@@ -1,0 +1,10 @@
+﻿  main.cpp
+main.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_execute，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_plan_dft_1d，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_destroy_plan，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_malloc，函数 _main 中引用了该符号
+main.obj : error LNK2019: 无法解析的外部符号 __imp__fftw_free，函数 _main 中引用了该符号
+libfftw3-3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+libfftw3f-3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+libfftw3l-3.lib : warning LNK4272: 库计算机类型“x64”与目标计算机类型“x86”冲突
+F:\RadarProject\CppPart\Sub_Aperture\Debug\Sub_Aperture.exe : fatal error LNK1120: 5 个无法解析的外部命令

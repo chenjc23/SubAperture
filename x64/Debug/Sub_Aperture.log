@@ -1,4 +1,8 @@
-﻿  fftUtils.cpp
-  main.cpp
-  正在生成代码...
+﻿  main.cpp
+F:\RadarProject\CppPart\Sub_Aperture\main.cpp(59,56): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\RadarProject\CppPart\Sub_Aperture\main.cpp(60,24): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\RadarProject\CppPart\Sub_Aperture\main.cpp(65,46): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\RadarProject\CppPart\Sub_Aperture\main.cpp(68,28): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\RadarProject\CppPart\Sub_Aperture\main.cpp(81,36): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
+F:\RadarProject\CppPart\Sub_Aperture\main.cpp(81,32): warning C4244: “参数”: 从“double”转换到“int”，可能丢失数据
   Sub_Aperture.vcxproj -> F:\RadarProject\CppPart\Sub_Aperture\x64\Debug\Sub_Aperture.exe
